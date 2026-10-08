@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Wizard Mascot",
+      "hasCanvas": true,
+      "bodyTextLen": 169,
+      "bodyTextHash": "24d0d4dc6fc25c617ca6e5457551949cb06c2ccbccb96ec50e4744614168ce70",
+      "bodyTextPrefix": "Wizard Mascot Move your pointer and he follows. Click him to wav",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Wizard Mascot",
+      "hasCanvas": true,
+      "bodyTextLen": 116,
+      "bodyTextHash": "f72ed44bc53c05ce525e1b780bd9c94d87e203e914d7d1674d92c8f35a2f3570",
+      "bodyTextPrefix": "Wizard Mascot Move the pointer — he looks at you Summoning the w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (147 -> 169 chars, hash mismatch)",
+    "mobile: body text changed (94 -> 116 chars, hash mismatch)"
+  ]
+}

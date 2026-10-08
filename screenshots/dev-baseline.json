@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Wizard Mascot",
+      "hasCanvas": true,
+      "bodyTextLen": 147,
+      "bodyTextHash": "4b51869b0a2d9cf2a932f5ab007d79dd857d1e77e942133e683e9f4cee114706",
+      "bodyTextPrefix": "Wizard Mascot Move your pointer and he follows. Click him to wav",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Wizard Mascot",
+      "hasCanvas": true,
+      "bodyTextLen": 94,
+      "bodyTextHash": "2be62d4fd83f322a3fefefd30a7412c9ca36ab4cc39255a16ddfbcc702fa7f13",
+      "bodyTextPrefix": "Wizard Mascot Move the pointer — he looks at you Speak Wave Jump",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
